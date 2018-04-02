@@ -1,2 +1,2 @@
-# chimera
-Chimera Theme for Bootstrap 4
+# Chimera Theme
+For Bootstrap 4
